@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding:  0;
+}
+.color-links{
+	color: #fff;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #01DF3A;
+}
+.nav-pills>li>a {
+    border-radius: 0px;
+}
+.select-rol, .roles, .boton-siguiente{
+	margin: 3% 0% 3% 0%;
+}
+.btn-default:hover {
+    background-color: #00FF40;
+    color: #fff;
+}
+.btn-group-lg>.btn, .btn-lg {
+    border-radius: 2px;
+}
+.panel-default>.panel-heading {
+    background-color: rgba(4, 180, 95, 0.7);
+}
+.panel-body {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+}
+.panel-default>.panel-heading:hover {
+    background-color: rgba(4, 180, 95, 0.5);
+}
+.panel-body:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1C1C1C;
+    color: white;
+    text-align: center;
+    min-height: 35px;
+    padding-top: 9px;
+}
+.enlace-lp{
+	color: #fff;
+}
+.modos{
+	margin: 2%;
+	text-align: center;
+}
+.logoimg{
+	height:100%;
+}
